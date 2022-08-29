@@ -1,1 +1,2 @@
 inside text.txt
+new thing inside text.txt
